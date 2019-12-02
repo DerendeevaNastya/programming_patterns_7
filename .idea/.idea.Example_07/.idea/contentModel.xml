@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\deren\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\deren\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Example_07.384410933.00" t="ExcludeRecursive" />
+    <e p="C:\Users\deren\Documents\шаблоны\Example_07" t="IncludeFlat">
+      <e p="Example_07" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Example_07.csproj" t="IncludeRecursive" />
+        <e p="Homework" t="Include">
+          <e p="CopyMachine.cs" t="Include" />
+          <e p="ICopyMachineState.cs" t="Include" />
+          <e p="IDevice.cs" t="Include" />
+          <e p="IDocument.cs" t="Include" />
+        </e>
+        <e p="Mediators" t="Include">
+          <e p="Ex1" t="Include">
+            <e p="ExampleWithMediator.cs" t="Include" />
+            <e p="ExampleWithoutMediator.cs" t="Include" />
+            <e p="Writers" t="Include">
+              <e p="ConsoleWriter.cs" t="Include" />
+              <e p="RedConsoleWriter.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Ex2" t="Include">
+            <e p="Dialog.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Observers" t="Include">
+          <e p="Example.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="States" t="Include">
+          <e p="Example.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Example_07.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

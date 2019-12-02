@@ -1,0 +1,20 @@
+C:\Users\sam\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.exe.config
+C:\Users\sam\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.exe
+C:\Users\sam\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.pdb
+C:\Users\sam\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.csprojAssemblyReference.cache
+C:\Users\sam\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.csproj.CoreCompileInputs.cache
+C:\Users\sam\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.exe
+C:\Users\sam\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.pdb
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.exe.config
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.exe
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\bin\Debug\Example_07.pdb
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.csprojAssemblyReference.cache
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.exe
+C:\Users\Andrey\Dropbox\Работа\Extreme\Лекции\Паттерны\2019 - Паттерны\examples\Example_07\Example_07\obj\Debug\Example_07.pdb
+C:\Users\deren\Documents\шаблоны\Example_07\Example_07\bin\Debug\Example_07.exe.config
+C:\Users\deren\Documents\шаблоны\Example_07\Example_07\bin\Debug\Example_07.exe
+C:\Users\deren\Documents\шаблоны\Example_07\Example_07\bin\Debug\Example_07.pdb
+C:\Users\deren\Documents\шаблоны\Example_07\Example_07\obj\Debug\Example_07.csprojResolveAssemblyReference.cache
+C:\Users\deren\Documents\шаблоны\Example_07\Example_07\obj\Debug\Example_07.exe
+C:\Users\deren\Documents\шаблоны\Example_07\Example_07\obj\Debug\Example_07.pdb
